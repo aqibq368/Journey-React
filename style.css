@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+   }
+h1{
+    background-color: #c9c6c6;
+    text-align: center;
+}
+.ablue{
+    background-color: #3586c6;
+}
+.bblue{
+    background-color: #2a91cf;
+}
+.cblue{
+    background-color: #1f9dd9;
+}
+.dblue{
+    background-color: #40a9e0;
+}
+.eblue{
+    background-color: #77c0eb;
+}
+.fblue{
+    background-color: #8bc7eb;
+}
+.gblue{
+     background-color: #91c7e8;
+}
+.green{background-color: #15b585;}
+.apink{
+    background-color: #f7afcf;
+}
+.bpink{
+    background-color: #f39dbe;
+}
+.cpink{
+    background-color: #f38db5;
+}
+.dpink{
+    background-color: #f16695;
+}
+.epink{
+    background-color: #ec6694;
+}
+.fpink{
+    background-color: #ef5a8b;
+}
+.gpink{
+    background-color: #ec397e;
+}
